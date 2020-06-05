@@ -1,2 +1,4 @@
 /hello_world/target
 /hello_world/cargo.lock
+/opt_enum_tup/target
+/opt_enum_tup/cargo.lock
